@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { FiChevronRight } from 'react-icons/fi';
 import { Title, Form, Repositories } from './styles';
-import api from '../../services/api';
+// import api from '../../services/api';
 
 import logoImg from '../../assets/logo.svg';
 
 const Dashboard: React.FC = () => {
-  const [repositories, setRepositories] = useState([]);
+  // const [repositories, setRepositories] = useState([]);
 
   return (
     <>
