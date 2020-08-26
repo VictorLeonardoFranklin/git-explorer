@@ -1,6 +1,6 @@
 import styled, { css } from 'styled-components';
 import { shade } from 'polished';
-
+// prettier-ignore
 interface FormProps {
   hasError: boolean;
 }
